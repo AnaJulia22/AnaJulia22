@@ -3,7 +3,7 @@
 
 - 📖 Sou estudante de Sistemas de Informação na Universidade Federal de Pernambuco - 📖 I am a Informartion Systems student at Universidade Federal de Pernmabuco
 
-- 🌱 Estudando python e suas bibliotecas para análise de dados - 🌱 I’m currently learning **Python**
+- 🌱 Estudando **Python** e **SQL** - 🌱 I’m currently learning **Python** and **SQL**
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
