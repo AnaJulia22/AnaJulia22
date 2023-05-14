@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Júlia</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 📖 Sou estudante de Sistemas de Informação na Universidade Federal de Pernambuco - 📖 I am a Informartion Systems student at Universidade Federal de Pernmabuco
+- 📖 Sou estudante do terceiro período de Sistemas de Informação na Universidade Federal de Pernambuco - 📖 I am a Informartion Systems student at Universidade Federal de Pernmabuco
 
 - 🌱 Estudando **Python** e **SQL** - 🌱 I’m currently learning **Python** and **SQL**
 
