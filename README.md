@@ -24,14 +24,6 @@
     </a>
   </div>
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/AnaJulia22/AnaJulia22/output/github-contribution-grid-snake.svg">
-  <br>
-  <br> 
-  <br>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/júlia-fernandes-4a114b187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="júlia-fernandes-4a114b187" height="30" width="40" /></a>
