@@ -3,9 +3,9 @@
 
 
 
-- 📖 Sou estudante do terceiro período de Sistemas de Informação na Universidade Federal de Pernambuco - 📖 I am a Informartion Systems student at Universidade Federal de Pernambuco
+- 📖 I am a Informartion Systems student at Universidade Federal de Pernambuco
 
-- 🌱 Estudando **Java** e **SQL** - 🌱 I’m currently learning **Java** and **SQL**
+- 🌱 I’m currently learning **Java** and **SQL**
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
