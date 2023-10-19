@@ -5,7 +5,7 @@
 
 - 📖 I am a Informartion Systems student at Universidade Federal de Pernambuco
 
-- 🌱 I’m currently learning **Java** and **SQL**
+- 🌱 I’m currently learning **Java** and **Mysql**
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
