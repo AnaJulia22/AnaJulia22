@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Java and MySql**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anajulia22&show_icons=true&locale=en&layout=compact" alt="anajulia22" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anajulia22&" alt="AnaJulia22" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=anajulia22&show_icons=true&locale=en" alt="anajulia22" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
