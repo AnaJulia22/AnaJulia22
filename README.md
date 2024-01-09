@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ana Júlia</h1>
 <h3 align="center">Developer from Brazil</h3>
 
+<a href="https://app.bounties4.com/@/anajulia" target="_blank"><img title="bounties4.com/@/anajulia" alt="bounties4.com/@/anajulia" src="https://storage.googleapis.com/profile_avatar/production/104095446703930881522/1704822609067_badge.png" width="400" height="400" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajulia22&label=Profile%20views&color=0e75b6&style=flat" alt="anajulia22" /> </p>
 
 ![AnaJulia22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJulia22&theme=radical&show_icons=true&hide_border=true&layout=compact)
 ![AnaJulia22's Stats](https://github-readme-stats.vercel.app/api?username=AnaJulia22&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-<a href="https://app.bounties4.com/@/anajulia" target="_blank"><img title="bounties4.com/@/anajulia" alt="bounties4.com/@/anajulia" src="https://storage.googleapis.com/profile_avatar/production/104095446703930881522/1704822609067_badge.png" width="400" height="400" /></a>
 - 🌱 I’m currently learning **Java and MySql**
 
 
