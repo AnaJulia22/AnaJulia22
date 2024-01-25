@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajulia22&label=Profile%20views&color=0e75b6&style=flat" alt="anajulia22" /> </p>
 
-![AnaJulia22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJulia22&theme=radical&show_icons=true&hide_border=true&layout=compact)
-![AnaJulia22's Stats](https://github-readme-stats.vercel.app/api?username=AnaJulia22&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
@@ -27,6 +24,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
+
+<br>
+
+![AnaJulia22's Stats](https://github-readme-stats.vercel.app/api?username=AnaJulia22&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![AnaJulia22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJulia22&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 
